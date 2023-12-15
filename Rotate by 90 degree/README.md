@@ -1,6 +1,6 @@
 https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1?page=1&sprint=ca8ae412173dbd8346c26a0295d098fd&sortBy=submissions
 
-## Rotate by 90 degree
+<h1> Rotate by 90 degree </h1>
 Given a square matrix of size N x N. The task is to rotate it by 90 degrees in anti-clockwise direction without using any extra space. <br><br>
 
 **EXAMPLE 1:** <br>
