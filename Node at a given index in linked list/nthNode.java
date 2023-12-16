@@ -77,11 +77,13 @@ class GfG
     public static int getNth(Node node, int ind)
     {
        //Your code here
-       while(ind > 1) {
+       while(node != null) {
+           while(ind > 1) {
            ind--;
            node = node.next;
        }
-       return node.data;
-       
+        return node.data;
+       }
+       return -1;
     }
 }
