@@ -91,6 +91,10 @@ class GfG
 	// Your code here	
 	Node prev = null;
 	Node current = head;
+
+	if (head == null || x < 1) {
+            return head;
+        }
 	
 	if(x == 1) {
 	    head = head.next;
