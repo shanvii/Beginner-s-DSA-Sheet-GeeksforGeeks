@@ -1,13 +1,6 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/children-sum-parent/1">Check for Children Sum Property in a Binary Tree</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p>&nbsp;</p>
-<table style="border-collapse: collapse; width: 99.0507%; height: 40px; background-color: #fff9eb; border-color: #d79f0a;" border="1">
-<tbody>
-<tr style="height: 65.1px;">
-<td style="width: 100%; text-align: center; height: 65.1px;">
-<p style="margin-bottom: 0cm; line-height: 100%;"><a href="https://forms.gle/6MpVsAEdw2GqZCjE7" target="_blank" rel="noopener"><span style="color: #d79f0a;"><span style="font-size: large;"><span style="background: #ffdbb6;">Take a moment and Share your insight on January special.</span></span></span></a></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h2><a href="https://www.geeksforgeeks.org/problems/children-sum-parent/1">Check for Children Sum Property in a Binary Tree</a></h2>
+<h3>Difficulty Level : Medium</h3>
+
 <p>&nbsp;</p>
 <p><span style="font-size: 18px;">Given a binary tree having <strong>n</strong> nodes. Check whether all of its nodes have the value equal to the sum of their child nodes.</span><span style="font-size: 18px;">&nbsp;R</span><span style="font-size: 18px;">eturn 1 if all the nodes in the tree satisfy the given properties, else it return 0.</span></p>
 <p><span style="font-size: 18px;">For every node, data value must be equal to the sum of data values in left and right children. Consider data value as 0 for NULL child.&nbsp; Also, leaves are considered to follow the property.</span></p>
