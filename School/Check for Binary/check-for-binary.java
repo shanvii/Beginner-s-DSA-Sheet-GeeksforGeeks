@@ -29,6 +29,8 @@ class checkBinary
 
 
 
+
+
 class GfG
 {
 	boolean isBinary(String str)
