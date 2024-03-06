@@ -37,6 +37,8 @@ class GFG {
 	}
 }
 // } Driver Code Ends
+
+
 class Solution
 {
     //Function to check if two strings are rotations of each other or not.
