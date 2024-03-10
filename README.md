@@ -11,6 +11,3 @@ https://www.geeksforgeeks.org/explore?page=1&sprint=a663236c31453b969852f9ea2250
 
 ## Love Babbar Sheet 
 https://www.geeksforgeeks.org/explore?page=1&sprint=94ade6723438d94ecf0c00c3937dad55&sortBy=submissions&sprint_name=Love%20Babbar%20Sheet <br/> <br/>
-
-
-This is for learners who are facing problem in questions and need help! <br/>
