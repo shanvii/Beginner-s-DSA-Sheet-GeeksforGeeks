@@ -9,7 +9,7 @@ https://www.geeksforgeeks.org/explore?page=1&sprint=ca8ae412173dbd8346c26a0295d0
 ## GFG SDE Sheet 
 https://www.geeksforgeeks.org/explore?page=1&sprint=a663236c31453b969852f9ea22507634&sortBy=submissions&sprint_name=SDE%20Sheet&itm_medium=main_header&itm_campaign=practice_header <br/> <br/>
 
-## Lobe Babbar Sheet 
+## Love Babbar Sheet 
 https://www.geeksforgeeks.org/explore?page=1&sprint=94ade6723438d94ecf0c00c3937dad55&sortBy=submissions&sprint_name=Love%20Babbar%20Sheet <br/> <br/>
 
 
