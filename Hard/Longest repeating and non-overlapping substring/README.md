@@ -6,9 +6,9 @@
 <span style="font-size: 18px;">n = 9</span>
 <span style="font-size: 18px;">s =<strong> </strong>"acdcdacdc"</span>
 <span style="font-size: 18px;"><strong>Output:</strong></span>
-<span style="font-size: 18px;">"acd"</span>
+<span style="font-size: 18px;">"acdc"</span>
 <span style="font-size: 18px;"><strong>Explanation:</strong></span>
-<span style="font-size: 18px;">The string "acd" is the longest Substring of s which is repeating but not overlapping.</span></pre>
+<span style="font-size: 18px;">The string "acdc" is the longest Substring of s which is repeating but not overlapping.</span></pre>
 <p><span style="font-size: 18px;"><strong>Example 2:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:</strong></span>
 <span style="font-size: 18px;">n = 7</span>
@@ -17,6 +17,6 @@
 <span style="font-size: 18px;">"heh"</span>
 <span style="font-size: 18px;"><strong>Explanation:</strong></span>
 <span style="font-size: 18px;">The string "heh" is the longest Substring of s which is repeating but not overlapping.</span></pre>
-<p><span style="font-size: 18px;"><strong>Your Task:</strong><br>You don't need to read input or print anything. Your task is to complete the function<strong> longestSubstring()</strong> which takes a Integer <strong>n</strong> and a string <strong>s</strong> as input and returns the answer.</span></p>
+<p><span style="font-size: 18px;"><strong>Your Task:</strong><br>You don't need to read input or print anything. Your task is to complete the function<strong> longestSubstring()</strong> which takes an Integer <strong>n</strong> and a string <strong>s</strong> as input and returns the answer.</span></p>
 <p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(n<sup>2</sup>)<br><strong>Expected Auxiliary Space:</strong> O(n<sup>2</sup>)</span></p>
 <p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 &lt;= n &lt;= 10<sup>3</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>MakeMyTrip</code>&nbsp;<code>Walmart</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Strings</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
