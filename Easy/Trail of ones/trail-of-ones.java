@@ -21,18 +21,16 @@ class GFG {
 // User function Template for Java
 class Solution {
     static int numberOfConsecutiveOnes(int n) {
-        long mod = (int) 1e9 + 7, res = 1, a = 1, b = 1;
-        if(n == 1 || n == 2)
-            return 1;
-            
-        for(int i = 3; i <= n; i++) {
-            long c = (a + b) % mod;
+        if(n == 2) return 1;
+        int a = 0, b = 1;
+        int ans = 1;
+        int mod = 1_000_000_007;
+        for(int i=3; i<=n; i++){
+            int c = (a+b)%mod;
             a = b;
             b = c;
-            
-            res = ((res * 1l * 2) + a) % mod;
+            ans = ((ans*2)%mod + c)%mod;
         }
-        
-        return (int) res;
+        return ans;
     }
 }
