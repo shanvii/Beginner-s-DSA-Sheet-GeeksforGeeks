@@ -1,0 +1,10 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/permutations-in-array1747/0">Permutations in array</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given two arrays <strong>arr1[]</strong>, <strong>arr2[]</strong>, and an integer <strong>k</strong>. The task is to check if after permuting both arrays in such a way, we get the sum of their corresponding element greater than or equal to <strong>k</strong> i.e. <strong>arr1<sub>i</sub> + arr2<sub>i</sub> &gt;= k </strong>for all i (from <strong>0</strong> to <strong>n-1</strong>). Return <strong>true</strong> if possible, else <strong>false</strong>.</span>&nbsp;</p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>k = 10, arr1[] = [2, 1, 3], arr2[] = [7, 8, 9]. 
+<strong>Output: </strong>true
+<strong>Explanation: </strong>Permutation  arr1[] = [1, 2, 3] and arr2[] = [9, 8, 7] satisfy the condition arr1[i] + arr2[i] &gt;= k</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>k = 5, arr1[] = [1, 2, 2, 1], arr2[] = [3, 3, 3, 4].
+<strong>Output: </strong>false</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Explanation:</span> </strong></span><span style="font-size: 18px;">Since any permutation won't give the answer.</span></pre>
+<p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(n*log(n))<br><strong>Expected Auxiliary Space:</strong> O(1)</span></p>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>5</sup></span><br><span style="font-size: 18px;">0 ≤ k ≤ 10<sup>5</sup><br>0 ≤ arr1<sub>i</sub>, arr2<sub>i</sub> ≤ 2*10<sup>5</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Sorting</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
